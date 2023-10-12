@@ -6,9 +6,8 @@ description: 此功能可以瀏覽並下載各班學生家長的名單，以便�
 
 ## 家長委員圈選名冊
 
-![](../.gitbook/assets/parent-committee%20%281%29.png)
+![](<../.gitbook/assets/Parent committee (1).png>)
 
 1. 可選擇各年級班級。
 2. 下載已選班級家長委員圈選名冊。
 3. 下載全校班級家長委員圈選名冊。
-
