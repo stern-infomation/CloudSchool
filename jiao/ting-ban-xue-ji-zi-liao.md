@@ -1,8 +1,8 @@
----
-description: 此模組為客製模組，如有資料移轉需求，請來電諮詢。
----
+# 廳版學籍資料 \[付費模組]
 
-# 廳版學籍資料
+{% hint style="info" %}
+此模組為客製模組，如有資料移轉需求，請來電洽詢：04-2358-2259。
+{% endhint %}
 
 ![](../.gitbook/assets/junior-high-school-1.png)
 
