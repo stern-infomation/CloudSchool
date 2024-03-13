@@ -42,10 +42,10 @@
 * [線上補考管理](jiao/shang-kao-guan-li.md)
 * [補救教學篩選](jiao/jiu-jiao.md)
 * [技藝學程成績](jiao/ji-cheng-cheng.md)
-* [能力指標 \[付費模組\]](jiao/neng-li-zhi-biao-fu-fei-mo-zu.md)
+* [能力指標（付費模組）](jiao/neng-li-zhi-biao.md)
 * [教師資料](jiao/jiao-liao.md)
 * [課表作業](jiao/biao-zuo.md)
-* [廳版學籍資料 \[付費模組\]](jiao/ting-ban-xue-ji-zi-liao.md)
+* [廳版學籍資料（付費模組）](jiao/ting-ban-xue-ji-zi-liao.md)
 
 ***
 

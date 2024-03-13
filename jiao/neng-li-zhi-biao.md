@@ -1,4 +1,8 @@
-# 能力指標 \[付費模組]
+---
+description: 此模組為客製模組，如有需求，請來電諮詢。
+---
+
+# 能力指標（付費模組）
 
 {% hint style="info" %}
 * 本模組為客製化付費模組。
@@ -49,7 +53,7 @@
 > 此模組可進行該科目能力指標設置，需為被指派為編輯教師的教師才有操作權限。
 
 {% hint style="info" %}
-需有被指派為科目編輯教師，方可於此模組進行能力指標設定。行政管理端可於「[能力指標管理](neng-li-zhi-biao-fu-fei-mo-zu.md#neng-li-zhi-biao-guan-li)」模組進行教師設定。
+需有被指派為科目編輯教師，方可於此模組進行能力指標設定。行政管理端可於「[能力指標管理](neng-li-zhi-biao.md#neng-li-zhi-biao-guan-li)」模組進行教師設定。
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/設定能力指標 ability-target-set-target.png" alt=""><figcaption></figcaption></figure>
