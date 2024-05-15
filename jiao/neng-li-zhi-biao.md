@@ -37,12 +37,13 @@ description: 此模組為客製模組，如有需求，請來電諮詢。
 
 > 此模組可依學生學期表現登打學習能力指標。
 
-<figure><img src="../.gitbook/assets/學生能力指標 student-ability-target-set.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/學生能力指標 student-ability-target-set (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 選擇**「班級－科目」**
 2. 依學生學習表現登打能力指標，輸入數字**「1-5」**，能力指標請參考說明。
-3. 點擊**「鍵盤」**可批次統設全班能力指標，可再進行個別微調。
-4. 點擊**「儲存」**完成此次編輯。
+3. 或使用**「依成績設定能力指標」**，系統依據學生該科目學期分數對應其能力指標。
+4. 點擊**「鍵盤」**可批次統設全班能力指標，可再進行個別微調。
+5. 點擊**「儲存」**完成此次編輯。
 
 {% hint style="info" %}
 需為科目任課教師才有登打權限，可於[「學期初設定＞配課」](qi-chu-ding.md#6-pei-ke)進行配課。
@@ -63,3 +64,23 @@ description: 此模組為客製模組，如有需求，請來電諮詢。
 3. 點擊**「＋」**即可新增學習表現項目。
 4. 可於此處輸入自訂學期表現，按下**ENTER**後新增。
 5. 點擊藍色圖示可**「編輯」**學習表現內容、點擊垃圾桶圖示可**「刪除」**該學習表現項目。
+
+## 管理學生能力
+
+> 此模組提供行政端檢視各科目能力指標內容，亦可調整非本學期能力指標，建議開放給行政管理端。
+
+<figure><img src="../.gitbook/assets/管理學生能力 manage-all-ability (1).png" alt=""><figcaption></figcaption></figure>
+
+1. 選擇**「學期」**、**「班級」**、**「科目」**
+2. 標示處可檢視各科科任老師登錄的能力指標，並顯示教師評等。如有需要，可由行政端調整，該處調整內容會與＂[學生能力指標](neng-li-zhi-biao.md#xue-sheng-neng-li-zhi-biao)＂連動。
+3. 如有修改，請**「存檔」**。
+
+## 能力指標繳交狀況
+
+> 供行政管理端檢視各年班的能力指標繳交狀況。
+
+<figure><img src="../.gitbook/assets/能力指標繳交狀況 ability-target-set-status.png" alt=""><figcaption></figcaption></figure>
+
+繳交狀況圖示說明請參考模組頁面下方說明。
+
+<mark style="color:red;">※點選符號圖示可以顯現該科目繳交詳細內容。</mark>
