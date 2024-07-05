@@ -472,7 +472,7 @@
 {% tab title="學生轉入流程" %}
 一般轉入作業流程請參考下圖，詳細作業規定因各校有所差異，請遵照各校規範。
 
-![](../.gitbook/assets/transaction-in3.png)
+![](../.gitbook/assets/學生轉入流程圖.png)
 {% endtab %}
 {% endtabs %}
 
@@ -510,7 +510,7 @@
 {% tab title="學生調出流程" %}
 一般調出作業流程請參考下圖，詳細作業規定因各校有所差異，請遵照各校規範。
 
-![](../.gitbook/assets/transaction-out3.png)
+![](../.gitbook/assets/學生調出流程.png)
 {% endtab %}
 {% endtabs %}
 
