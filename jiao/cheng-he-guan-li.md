@@ -116,6 +116,25 @@
 
 ![](../.gitbook/assets/elective-effort2.png)
 
+## 本土、新住民、臺灣手語語系註記狀況
+
+> 此模組供行政端檢核各學期各年班的語系註記情況。
+
+<figure><img src="../.gitbook/assets/native-language-map.png" alt=""><figcaption></figcaption></figure>
+
+1. 選擇學期年班。
+2.  此處顯示各班語系註記狀況，如該班有該領域科目才會顯示。\
+    &#x20;<mark style="color:green;">**V**</mark>** 全班資料已輸入。**
+
+    &#x20;**? 部份學生資料未輸入，數字代表未輸入人數。**
+
+    &#x20;<mark style="color:red;">**X**</mark>** 全班資料都未輸入**
+3. 點擊放大鏡可查看班級輸入細項。
+
+{% hint style="danger" %}
+如科目未於＂學期初設定＞配課＂配課給任課老師，則無法顯示結果。
+{% endhint %}
+
 ## 成績輸入
 
 ### 班級階段成績
@@ -165,6 +184,22 @@
 {% hint style="warning" %}
 * 如果要使用本功能匯入社團成績，且要避免排課教師輸入社團成績，請於學期初設定將社團教師配課刪除(課程設定不能修改)。
 * 在成績管理之成績繳交狀況無法看見匯入成績否，因為本成績是直接匯入學期成績。
+{% endhint %}
+
+### 本土、新住民、臺灣手語語系設定
+
+> 此模組功能提供行政端補登過往學期班級本土、新住民、臺灣手語語言類型。
+
+<figure><img src="../.gitbook/assets/native-language-input.png" alt=""><figcaption></figcaption></figure>
+
+1. 選擇相對應的學期年班資訊。
+2. 選擇學生修習的語言語系類型。\
+   <mark style="color:red;">※各語文領域類型語系有相關規範，如新住民語系就必須為＂語文－新住民語＂領域下方能選擇。</mark>
+3. 鍵盤按鈕可預設列表為相同語系進行批次設定。
+4. 處理完畢後請記得「儲存」。
+
+{% hint style="info" %}
+此模組與任課老師於＂[學習描述文字編修](../jiao-1/sheng-cheng-guan-li.md#xue-xi-miao-shu-wen-zi-bian-xiu)＂設定的語系連動，因科任老師無法處理非本學期作業，故此模組主要功能是提供行政端可以進行非本學期資料補登。
 {% endhint %}
 
 ## 學期成績
