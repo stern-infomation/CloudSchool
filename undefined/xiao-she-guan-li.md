@@ -116,6 +116,15 @@
 1. 選擇**「學年」**，該學期社團成績繳交狀況將顯示於下方資訊欄&#x20;
 2. 點選放大鏡圖示可顯示該社團成績輸入內容
 
+## 協助選填志願
+
+> 此功能模組提供校端協助無法自行選填志願的學生代填社團志願。
+
+<figure><img src="../.gitbook/assets/assist-stud-choose-club.png" alt=""><figcaption></figcaption></figure>
+
+1. 選擇「班級」、「學生」
+2. 依學生社團志願序選填志願。
+
 ## 報表列印
 
 {% tabs %}
