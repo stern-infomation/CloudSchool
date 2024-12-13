@@ -2,19 +2,19 @@
 
 ## 登錄時數
 
-![](../.gitbook/assets/service-sign\_sing1.png)
+![](../.gitbook/assets/service-sign_sing1.png)
 
 1. 服務學習時數登錄在選擇學期之後，會在下方顯示該學期本人所新增之服務學習登錄。
 2. 要新增服務學習項目，請按 **「新增服務學習項目」** 按鈕，並於跳出視窗內填入日期、登錄單位、服務類型、主辦單位、服務內容等，即會在下方顯示新增項目。
 3. 如項目內容須修改，請按 **「修改」** 按鈕，在跳出視窗內進行修改。
 4. 要刪除已新增之項目，可以按 **「刪除」** 按鈕，在確認後刪除。
-5. 新增項目後，須新增學生，請按 **「加入學生」** 按鈕，在跳出視窗內選擇學生，選取學生可變換班級選取，輸入相關內容後按下**「登錄服務時數」**即可存入學生服務時數資料，如下圖![](../.gitbook/assets/service-sign\_sing1-2.png)
-6.  也可點擊**「快貼匯入」**可一次登錄多筆學生服務學習時數，請參照快貼說明操作，如下圖
+5. 新增項目後，須新增學生，請按 **「加入學生」** 按鈕，在跳出視窗內選擇學生，選取學生可變換班級選取，輸入相關內容後按&#x4E0B;**「登錄服務時數」**&#x5373;可存入學生服務時數資料，如下圖![](../.gitbook/assets/service-sign_sing1-2.png)
+6.  也可點&#x64CA;**「快貼匯入」**&#x53EF;一次登錄多筆學生服務學習時數，請參照快貼說明操作，如下圖
 
-    ![](../.gitbook/assets/service-sign\_sing1-1.png)
+    ![](../.gitbook/assets/service-sign_sing1-1.png)
 7.  在新增項目後，欲修改學生時數設定，請點按 **「顯示」** 按鈕，就會出現如同下方圖示之內容。
 
-    ![](../.gitbook/assets/service-sign\_sing2.png)
+    ![](../.gitbook/assets/service-sign_sing2.png)
 8. 採計時數可以個別輸入時間，或者按 **「預填時間」** 按鈕，先統一輸入時間後，再個別手動調整。
 9. 註記文字可以個別輸入，或者按 **「預設註記」** 按鈕，先統一輸入註記後，再個別手動調整。
 10. 如需要刪除某個已選擇學生時數設定，可以按 **「刪除」** 按鈕，刪除該學生之設定。
@@ -26,7 +26,7 @@
 
 ## 核定認證時數
 
-![](../.gitbook/assets/approve\_certification\_hours.png)
+![](../.gitbook/assets/approve_certification_hours.png)
 
 1. 核定認證時數會列出尚未通過認證之服務學習項目，如為本人新增項目則不會出現 **「加入認證」** 按鈕。
 2. 按 **「顯示學生」** 按鈕，可以在新視窗顯示本服務學習項目之學生資料，但無法修改。
@@ -40,7 +40,7 @@
 
 ## 查詢學生學期時數
 
-![](../.gitbook/assets/search\_stud\_semester\_hours.png)
+![](../.gitbook/assets/search_stud_semester_hours.png)
 
 1. 要查詢或列印學生服務明細總表，可選擇學期、班級以及是否顯示全部的學期紀錄。
 2. 勾選學生或點選 **「全選」** 選取全部學生。
@@ -51,25 +51,25 @@
 ![](../.gitbook/assets/semester-total.png)
 
 1. 請選擇年級、班級，即可顯示該學期該年級所有學生之統計資料。
-2. 點擊**「下載」**，可下載學生服務學習-學期總表 。
+2. 點&#x64CA;**「下載」**，可下載學生服務學習-學期總表 。
 3. 點擊放大鏡圖示，可檢視學生服務時數資料。
 
 ## 轉學生資料補登
 
-![](../.gitbook/assets/transfer\_stud\_data\_make-up.png)
+![](../.gitbook/assets/transfer_stud_data_make-up.png)
 
 1.選擇學期。\
 2.選擇學生。\
 3.依照圖片中的項目，補登學生在他校的服務學習內容。\
 4.若要刪除學生補登紀錄點擊「**垃圾桶**」即可刪除。
 
-![](../.gitbook/assets/transfer\_stud\_data\_make-up2.png)
+![](../.gitbook/assets/transfer_stud_data_make-up2.png)
 
 5.選填完以上項目後，點選「**確認新增**」即可完成補登服務學習紀錄。
 
 ## 參數設定
 
-![](<../.gitbook/assets/parameter\_setting (1).png>)
+![](<../.gitbook/assets/parameter_setting (1).png>)
 
 1.  設定服務學習可以瀏覽或登錄資料的最近「**學年數**」。
 

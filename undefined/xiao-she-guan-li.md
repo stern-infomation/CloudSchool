@@ -32,11 +32,7 @@
 
 ## 社團一覽表
 
-<div align="center">
-
-<img src="../.gitbook/assets/club_list.png" alt="">
-
-</div>
+<div align="center"><img src="../.gitbook/assets/club_list.png" alt=""></div>
 
 本功能列出已設定的社團、社團教師、已編組學生等。
 
@@ -45,10 +41,10 @@
 ![](../.gitbook/assets/club-score.png)
 
 1. 社團指導老師可選擇自己指導的社團進行成績輸入。
-2. 可**「下載社團名單」**編修，方便使用快貼匯入。
+2. &#x53EF;**「下載社團名單」**&#x7DE8;修，方便使用快貼匯入。
 3. 輸入項目包含成績、職位、學習描述。
 4. 輸入完畢後請點選「**儲存**」即可完成操作。
-5. 可勾選**「顯示大頭照」**，顯示學生大頭照以利老師登錄成績辨識。
+5. 可勾&#x9078;**「顯示大頭照」**，顯示學生大頭照以利老師登錄成績辨識。
 
 {% hint style="info" %}
 如需顯示學生大頭照，需於[學生資料](../jiao/sheng-liao-guan-li.md#xue-sheng-zi-liao)中上傳學生照片。
@@ -56,7 +52,7 @@
 
 ## 社團管理
 
-![](<../.gitbook/assets/club\_management (1).png>)
+![](<../.gitbook/assets/club_management (1).png>)
 
 1.  期初設定\
     &#x20;<img src="../.gitbook/assets/manager2.png" alt="" data-size="original">&#x20;
@@ -105,15 +101,15 @@
 3. 可檢視各年級社團學生明細。
 4. 若需檢視尚未選課和編班的學生，請點擊「**未選課、編班名單**」。\
    <img src="../.gitbook/assets/unselected_club_list.png" alt="" data-size="original">&#x20;
-5. 學生填寫志願期限過後，就可以按**「開始編班」**按鈕，系統就開始依據社團設定及學生填之志願編班。
+5. 學生填寫志願期限過後，就可以&#x6309;**「開始編班」**&#x6309;鈕，系統就開始依據社團設定及學生填之志願編班。
 6. 系統提供下載各年級學生選填社團志願的狀況。
-7. 若要刪除當學期社團編班記錄，請點擊「**清除鍵**」。如果要保留已經事先安排之學生編社資料，可取消勾選**"包含已手動編班學生"**，並於確認後清除資料。
+7. 若要刪除當學期社團編班記錄，請點擊「**清除鍵**」。如果要保留已經事先安排之學生編社資料，可取消勾&#x9078;**"包含已手動編班學生"**，並於確認後清除資料。
 
 ## 社團成績繳交狀況
 
 ![](<../.gitbook/assets/score-manage (3).png>)
 
-1. 選擇**「學年」**，該學期社團成績繳交狀況將顯示於下方資訊欄&#x20;
+1. 選&#x64C7;**「學年」**，該學期社團成績繳交狀況將顯示於下方資訊欄&#x20;
 2. 點選放大鏡圖示可顯示該社團成績輸入內容
 
 ## 協助選填志願
@@ -135,7 +131,7 @@
 {% tab title="班級名單" %}
 此功能可以查詢和列印班級的社團資料。
 
-![](../.gitbook/assets/print\_class\_list.png)
+![](../.gitbook/assets/print_class_list.png)
 
 1. 選擇學年和班級。
 2. 可選擇列印該班社團記錄或是該年級社團記錄。
@@ -145,7 +141,7 @@
 {% tab title="社團名單" %}
 此功能可以查詢和列印每個年級的社團資訊。
 
-![](../.gitbook/assets/print\_club\_list.png)
+![](../.gitbook/assets/print_club_list.png)
 
 1. 選擇學年和年級。
 2. 可列印年級社團名單以及下載社團名冊excel。
@@ -154,7 +150,7 @@
 {% tab title="學生歷年資料" %}
 此功能可以查詢和列印學生歷年來的社團紀錄。
 
-![](../.gitbook/assets/print\_stud\_past-years\_data.png)
+![](../.gitbook/assets/print_stud_past-years_data.png)
 
 1. 選擇學期和班級。
 2. 若有選擇全班學生，請勾選「**全選**」；若資料需含成績，請勾選「**含成績**」。
@@ -171,8 +167,8 @@
 ![](../.gitbook/assets/club-semester-data.png)
 
 1. 請選擇學期和社團名稱。
-2. 選擇**「努力程度」**並輸入**「成績」**、**「職稱」**及**「學習描述」**。\
-   **「自我省思」**為學生於[學生作業＞社團活動](../sheng/sheng-zuo.md#she-tuan-huo-dong)自行輸入，此處提供學校修改不當留言使用。
+2. 選&#x64C7;**「努力程度」**&#x4E26;輸&#x5165;**「成績」**、**「職稱」**&#x53CA;**「學習描述」**。\
+   &#xNAN;**「自我省思」**&#x70BA;學生於[學生作業＞社團活動](../sheng/sheng-zuo.md#she-tuan-huo-dong)自行輸入，此處提供學校修改不當留言使用。
 3. 輸入完畢請點選「**儲存**」。
 4. 若要一次輸入多筆資料，可以點擊「**快貼成績**」。\
    &#x20;<img src="../.gitbook/assets/club-semester-data2.png" alt="" data-size="original"> \
@@ -186,7 +182,7 @@
 {% tab title="轉學生補登他校成績" %}
 本功能可以補登轉入學生之社團資料。
 
-![](../.gitbook/assets/transfer\_stud\_other-school\_score.png)
+![](../.gitbook/assets/transfer_stud_other-school_score.png)
 
 1. 請選擇轉入學期後，下方出現轉入生學號、姓名，請點選該生姓名，下方就會出現輸入表單。
 2. 輸入後，請按「**新增**」按鈕儲存。

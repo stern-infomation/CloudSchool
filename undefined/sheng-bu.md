@@ -2,7 +2,7 @@
 
 ## 班級幹部
 
-![](../.gitbook/assets/class\_leader.png)
+![](../.gitbook/assets/class_leader.png)
 
 1. 班級幹部名稱若不符合貴校設定，請系統管理者在本模組 [參數設定](sheng-bu.md#can-shu-she-ding) 中修改。
 2. 拖拉下方學生方塊至上方職稱方塊內。
@@ -18,7 +18,7 @@
 
 ## 小老師
 
-![](../.gitbook/assets/little\_teacher.png)
+![](../.gitbook/assets/little_teacher.png)
 
 1. 小老師科目名稱可以由本模組 [參數設定](sheng-bu.md#can-shu-she-ding) 中增加修改。
 2. 可直接於選定之學生輸入位置鍵盤輸小老師科目，同樣修改後點選 **「存檔」** 保留設定。
@@ -31,7 +31,7 @@
 
 ## 社團幹部
 
-![](../.gitbook/assets/club\_leader.png)
+![](../.gitbook/assets/club_leader.png)
 
 1. 社團名稱配合本系統[學校社團管理](xiao-she-guan-li.md#she-tuan-yi-lan-biao)內之社團設定。
 2. 社團幹部名稱若不符合貴校設定，請在本模組 [參數設定](sheng-bu.md#can-shu-she-ding) 中修改。
@@ -40,7 +40,7 @@
 
 ## 全校性幹部
 
-![](<../.gitbook/assets/school-wide\_leader (1).png>)
+![](<../.gitbook/assets/school-wide_leader (1).png>)
 
 1. 全校性幹部團體及幹部名稱若不符合貴校設定，請在本模組 [參數設定](sheng-bu.md#can-shu-she-ding) 中修改。
 2. 快速輸入方式以先點選學生名字該列任何位置或輸入位置皆可，然後分別依參數設定之團體名稱及幹部名稱點選，設定完成後點選 **「存檔」**。要修改職稱人員，依上述方式點選，同樣修改後點選 **「存檔」** 保留設定。
@@ -48,14 +48,14 @@
 
 ## 幹部紀錄
 
-![](../.gitbook/assets/leader\_record.png)
+![](../.gitbook/assets/leader_record.png)
 
 1. 請選擇班級及學生，右方會列出該生所有幹部紀錄，按 **「列印」** 按鈕 可列印該生紀錄。
 2. 按 **「列印全班」** 按鈕可列印該班所有學生幹部紀錄。
 
 ## 幹部補登
 
-![](../.gitbook/assets/leader\_record\_make-up.png)
+![](../.gitbook/assets/leader_record_make-up.png)
 
 1. 選擇學期。
 2. 選擇學生
@@ -72,5 +72,5 @@
 <figure><img src="../.gitbook/assets/student-leader-params2.png" alt=""><figcaption></figcaption></figure>
 
 1. 依學校班級所需，在欄位內以隔行方式輸入幹部職稱。
-2. 可針對**「幹部獎勵作業」**進行參數調整，影響[**「班級幹部獎勵設定」**](../jiao-1/zuo.md#ban-ji-gan-bu-jiang-li-she-ding)模組。
-3. 編修完畢請點擊**「儲存設定」**，完成此次調整。
+2. 可針&#x5C0D;**「幹部獎勵作業」**&#x9032;行參數調整，影響[**「班級幹部獎勵設定」**](../jiao-1/zuo.md#ban-ji-gan-bu-jiang-li-she-ding)模組。
+3. 編修完畢請點&#x64CA;**「儲存設定」**，完成此次調整。

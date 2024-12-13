@@ -6,7 +6,7 @@ description: 本模組包含課表查詢及專科教室預約功能。
 
 ## 班級課表
 
-![](../.gitbook/assets/query\_class\_course.png)
+![](../.gitbook/assets/query_class_course.png)
 
 1. 本功能查詢各班級課表，也可查詢教師課表。點選下拉選單可查詢班級週次課表。
 2. 按該班任課教師旁 **「課表」** 按鈕圖示，可觀看該教師課表。
@@ -17,16 +17,12 @@ description: 本模組包含課表查詢及專科教室預約功能。
 ![](../.gitbook/assets/teacher-course.png)
 
 1. 本功能查詢教師課表，也可查詢各班級課表。點選下拉選單可查詢教師課表。
-2. 按該教師任課班級旁**「課表」** 按鈕圖示，可觀看該班級課表。
+2. 按該教師任課班級&#x65C1;**「課表」** 按鈕圖示，可觀看該班級課表。
 3. 可列印教師課表。
 
 ## 專科教室課表
 
-<div align="left">
-
-<img src="../.gitbook/assets/classroom-query1.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/classroom-query1.png" alt=""></div>
 
 本功能能查詢各專科教室課表。點選下拉選項可選擇專科教室。
 
@@ -37,11 +33,7 @@ description: 本模組包含課表查詢及專科教室預約功能。
 
 ## 空堂查詢
 
-<div align="left">
-
-<img src="../.gitbook/assets/break-time.png" alt="本功能查詢各節次該節空堂教師名單。">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/break-time.png" alt="本功能查詢各節次該節空堂教師名單。"></div>
 
 ## 預約專科教室
 
