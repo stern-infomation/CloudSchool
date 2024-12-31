@@ -719,20 +719,6 @@
 5. &#x53EF;**「刪除」**&#x88DC;登的日常描述文字。
 {% endtab %}
 
-{% tab title="缺曠課學期紀錄" %}
-{% hint style="info" %}
-補登轉入生的缺曠課紀錄，也可以在學務處 [缺曠課管理>轉入生資料補登](../undefined/que-guan-li.md#zhuan-ru-sheng-zi-liao-bu-deng) 操作。
-{% endhint %}
-
-![](../.gitbook/assets/transaction-patch8.png)
-
-1. 選取轉入生&#x7684;**「轉入學期」**。
-2. 選擇該學期要補登&#x7684;**「轉入生」**。
-3. 選擇補登項&#x76EE;**「缺曠課紀錄」**。
-4. 在欄位內填入該轉入生每學期各種假別的缺曠紀錄，按&#x4E0B;**「新增」**。
-5. &#x53EF;**「刪除」**&#x88DC;登的缺曠課紀錄。
-{% endtab %}
-
 {% tab title="體適能" %}
 
 
