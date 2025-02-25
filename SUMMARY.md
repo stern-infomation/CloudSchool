@@ -58,6 +58,7 @@
 * [彰縣免試入學](mian-shi-ru-xue-zhuan-qu-zi-hang-jia-gua/zhang-xian-mian-shi-ru-xue.md)
 * [嘉義區免試入學](mian-shi-ru-xue-zhuan-qu-zi-hang-jia-gua/jia-yi-qu-mian-shi-ru-xue.md)
 * [雲林區免試入學](mian-shi-ru-xue-zhuan-qu-zi-hang-jia-gua/yun-lin-qu-mian-shi-ru-xue.md)
+* [基北區免試入學](mian-shi-ru-xue-zhuan-qu-zi-xing-jia-gua/ji-bei-qu-mian-shi-ru-xue.md)
 
 ## 學務處 <a href="#undefined" id="undefined"></a>
 
